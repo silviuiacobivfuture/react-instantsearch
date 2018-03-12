@@ -106,6 +106,7 @@
     "react": "16.2.0",
     "react-autosuggest": "9.3.4",
     "react-dom": "16.2.0",
+    "react-google-maps": "9.4.5",
     "react-hot-loader": "4.0.0",
     "react-tap-event-plugin": "3.0.2",
     "recursive-readdir": "2.2.2",

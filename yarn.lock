@@ -132,6 +132,11 @@
     lodash "^4.17.4"
     pify "^3.0.0"
 
+"@snyk/protect@^1.1207.0":
+  version "1.1207.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1207.0.tgz#1fa34a07987100b43faf94e04aaaaf528b14a437"
+  integrity sha512-ghRa5S8aH8z9I3WGbl4/ISqkNUOmiNLG1XWkN7SyCsd1UZmY0WZDiKMLU1ZQrPQQdrCPyC+jwpRkKwDdfFLVqw==
+
 "@storybook/addon-actions@3.3.15", "@storybook/addon-actions@^3.3.15":
   version "3.3.15"
   resolved "https://registry.yarnpkg.com/@storybook/addon-actions/-/addon-actions-3.3.15.tgz#2831e52947dc258208dd17804b479f7acc62d859"

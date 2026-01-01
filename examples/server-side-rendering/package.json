@@ -23,10 +23,10 @@
     "webpack-node-externals": "1.6.0"
   },
   "dependencies": {
-    "express": "4.16.2",
+    "express": "4.22.0",
     "prop-types": "15.6.0",
     "react": "16.2.0",
     "react-dom": "16.2.0",
-    "react-instantsearch": "5.0.1"
+    "react-instantsearch": "5.2.0"
   }
 }
